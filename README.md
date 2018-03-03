@@ -1,6 +1,5 @@
 CSS Homework
-
-* Concepts to cover
+Concepts to cover
 
 * Display
 
