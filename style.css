@@ -444,5 +444,43 @@ RESPONSIVENESS
            </div>
       </div>
     </div>
+/*
 </body>
-</html>
+</html>*/
+
+TRANSFORMS 
+
+1. /*With the transform property, rotate the <div> element 150deg around its X-axis.
+<head>
+<style> 
+div {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<div>This is a div element</div>
+</body>
+*/
+
+2. /*With the transform property, rotate the <div> element 90deg 
+around its Z-axis.
+
+<head>
+<style> 
+div {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<div>This is a div element</div>
+</body>
+*/
+
